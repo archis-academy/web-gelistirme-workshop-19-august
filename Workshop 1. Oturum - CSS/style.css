@@ -1,0 +1,63 @@
+/* h1 -> selector */
+/* color -> property */
+/* red -> property-value */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    color: #dbba00;
+    background-color: black;
+    width: 500px;
+    display: block;
+    margin: 10px auto;
+}
+
+.title{
+    border: 5px dotted violet;
+}
+
+
+p{
+    background-color: red;
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.follow-btn{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    border: 2px solid blue;
+
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* p{
+    background-color: coral;
+    margin: 50px 10px 8px 12px;
+} */

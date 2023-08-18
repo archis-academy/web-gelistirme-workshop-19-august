@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+    color: rgb(85, 85, 85);
+    font-size: 13px;
+}
+
+
+.nav-links{
+    max-width: 1100px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 16px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.orange{
+    color: rgb(255, 166, 0);
+}

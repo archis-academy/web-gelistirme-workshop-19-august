@@ -1,0 +1,43 @@
+body{
+    background-image: url("station.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button{
+    border: none;
+    padding: 10px 0;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+p{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#arttir-btn{
+    background-color: darkgreen;
+}
+
+#kaydet-btn{
+    background-color: darkred;
+}

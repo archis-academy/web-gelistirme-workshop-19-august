@@ -1,0 +1,15 @@
+.container{
+    border: 2px solid green;
+    display: flex;
+}
+
+.home{
+    flex: 1 2 200px;
+    /* flex-basis: 200px;
+    flex-grow: 1;
+    flex-shrink: 2; */
+}
+
+.about{
+    flex: 2 4 200px;
+}
